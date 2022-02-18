@@ -4,8 +4,6 @@
 //
 //  Created by Jacob MacKinnon on 2022-02-18.
 //
-
-import Foundation
 import SwiftUI
 
 struct TextinputField: View {
